@@ -1,0 +1,14 @@
+{
+  "SAMPLES": 900,
+  "SEED": 0,
+  "EPOCHS": 2,
+  "BATCH_SIZE": 4,
+  "ACCUM": 2,
+  "LR": 0.0002,
+  "RANK": 16,
+  "MAX_LEN": 256,
+  "LOG_EVERY": 10,
+  "TEMPERATURE": 0.6,
+  "MAX_NEW_TOKENS": 160,
+  "TURNS": 8
+}
