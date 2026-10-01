@@ -1,5 +1,5 @@
 .venv/
 __pycache__/
-runs/
 *.pt
 *.png
+*.DS_Store
